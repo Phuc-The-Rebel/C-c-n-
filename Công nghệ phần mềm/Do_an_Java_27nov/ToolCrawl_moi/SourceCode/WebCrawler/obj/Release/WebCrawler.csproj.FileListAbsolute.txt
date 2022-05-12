@@ -1,0 +1,13 @@
+E:\VBNetSolutions\CrawlWeb\WebCrawler\WebCrawler\bin\Release\WebCrawler.exe.config
+E:\VBNetSolutions\CrawlWeb\WebCrawler\WebCrawler\bin\Release\WebCrawler.exe
+E:\VBNetSolutions\CrawlWeb\WebCrawler\WebCrawler\bin\Release\WebCrawler.pdb
+E:\VBNetSolutions\CrawlWeb\WebCrawler\WebCrawler\bin\Release\HtmlAgilityPack.dll
+E:\VBNetSolutions\CrawlWeb\WebCrawler\WebCrawler\bin\Release\HtmlAgilityPack.pdb
+E:\VBNetSolutions\CrawlWeb\WebCrawler\WebCrawler\bin\Release\HtmlAgilityPack.xml
+E:\VBNetSolutions\CrawlWeb\WebCrawler\WebCrawler\obj\Release\WebCrawler.frmMain.resources
+E:\VBNetSolutions\CrawlWeb\WebCrawler\WebCrawler\obj\Release\WebCrawler.Properties.Resources.resources
+E:\VBNetSolutions\CrawlWeb\WebCrawler\WebCrawler\obj\Release\WebCrawler.csproj.GenerateResource.cache
+E:\VBNetSolutions\CrawlWeb\WebCrawler\WebCrawler\obj\Release\WebCrawler.csproj.CoreCompileInputs.cache
+E:\VBNetSolutions\CrawlWeb\WebCrawler\WebCrawler\obj\Release\WebCrawler.csproj.CopyComplete
+E:\VBNetSolutions\CrawlWeb\WebCrawler\WebCrawler\obj\Release\WebCrawler.exe
+E:\VBNetSolutions\CrawlWeb\WebCrawler\WebCrawler\obj\Release\WebCrawler.pdb

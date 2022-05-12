@@ -1,0 +1,2 @@
+Project client và server tạo trên NetBeans 8.2
+File Products.sql chứa dữ liệu crawl từ ngày 21 đến 27. Về tiếp tục crawl từ ngày 28 trở đi rồi import vào database.

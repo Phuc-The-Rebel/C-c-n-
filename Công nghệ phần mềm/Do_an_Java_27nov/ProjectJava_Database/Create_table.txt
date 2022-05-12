@@ -1,0 +1,6 @@
+create schema products;
+Create table tblProducts(
+CrawlDate varchar(15)
+,ProductID varchar(15)
+,ProductDesc varchar(1000)
+,Price numeric );
