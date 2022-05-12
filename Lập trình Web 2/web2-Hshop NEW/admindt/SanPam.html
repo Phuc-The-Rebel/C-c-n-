@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sản phẩm</title>
+    <link href="FormData.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+    <form>
+        <div>
+            <label for="idSP">ID sản phẩm:</label>
+            <input type="text" id="idSP" name="idSP" readonly>
+        </div>
+        <br>
+        <div>
+            <label for="idLSP">ID loại sản phẩm::</label>
+            <input type="text" id="idLSP" name="idLSP">
+        </div>
+        <br>
+        <div><label for="tenSP">Tên sản phẩm</label>
+            <input type="text" id="tenSP" name="tenSP">
+        </div>
+        <br>
+        <div><label for="mo_ta">Mô tả sản phẩm (Tối đa 200 ký tự):</label>
+            <br>
+            <textarea id="mo_ta" name="mo_ta" cols="50" rows="10"></textarea>
+            <br>
+        </div>
+        <div><label for="hinh_anh">Hình ảnh sản phẩm (chỉ có đuôi .png hay .jpg):</label>
+            <input type="file" id="hinh_anh" name="hinh_anh">
+        </div>
+        <input style="text-align: center" type="submit" value="Lưu">
+        <input style="text-align: center" type="reset">
+    </form>
+
+</body>
+
+</html>

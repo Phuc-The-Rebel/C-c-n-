@@ -1,0 +1,92 @@
+/*==Grid==*/
+
+.header {
+    background-color: cornflowerblue;
+    grid-area: header;
+    padding: 0 1em;
+}
+
+.menu {
+    grid-area: menu;
+}
+
+.main {
+    grid-area: main;
+    background-color: white;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-areas: 'header header header header header header ' 'menu main main main main main';
+    grid-gap: 10px;
+    background-color: white;
+    padding: 2px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.grid-container .menu>div {
+    text-align: left;
+    padding: 2px 0;
+}
+
+
+/*==Menu==*/
+
+.menu ul {
+    background: cornflowerblue;
+    width: 200px;
+    padding: 0;
+    list-style-type: none;
+    text-align: left;
+}
+
+.menu li {
+    width: auto;
+    height: 40px;
+    line-height: 40px;
+    border-bottom: 1px solid #e8e8e8;
+    padding: 0 1em;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+
+.menu li:hover {
+    background: lightblue;
+}
+
+
+/*==Dropdown Menu==*/
+
+.menu ul li {
+    position: relative;
+    z-index: 1;
+}
+
+.menu .sub-menu {
+    position: absolute;
+    left: 200px;
+    top: 0;
+    display: none;
+}
+
+.menu li:hover .sub-menu {
+    display: block;
+}
+
+
+/* ==Dang xuat*/
+
+#DangXuat {
+    float: right;
+    padding: 0 1em;
+}
+
+#DangXuat a {
+    color: red;
+    text-align: center;
+}

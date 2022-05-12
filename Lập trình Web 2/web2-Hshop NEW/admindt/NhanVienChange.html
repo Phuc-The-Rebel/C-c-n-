@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thay đổi thông tin cá nhân</title>
+    <link href="FormData.css" rel="stylesheet" type="text/css" />
+</head>
+<form>
+    <div>
+        <label for="stt">Số thứ tự:</label>
+        <input type="text" id="stt" name="stt" value="4" readonly>
+    </div>
+    <br>
+    <div>
+        <label for="manhanvien">Mã nhân viên:</label>
+        <input type="text" id="manhanvien" name="manhanvien" required>
+    </div>
+    <br>
+    <div>
+        <label for="hovaten">Họ và tên:</label>
+        <input type="text" id="hoten" name="hovaten" required>
+    </div>
+    <br>
+    <div><label for="sdt">Số điện thoại:</label>
+        <input type="tel" id="sdt" name="sdt" required>
+    </div>
+    <br>
+    <div>
+        <label for="birthday">Ngày sinh:</label>
+        <input type="date" id="birthday" name="birthday" max="2020-06-31" min="1900-01-01">
+    </div>
+    <br>
+    <div>
+        <label for="dia_chi">Địa chỉ:</label>
+        <input type="text" id="dia_chi" name="dia_chi">
+    </div>
+    <br>
+    <div><label for="gioi_tinh">Giới tính</label>
+        <input type="radio" name="male" value="Nam">Nam
+        <input type="radio" name="female" value="Nu">Nữ
+    </div>
+    <br>
+    <div><label for="puong">Lương:</label>
+        <input type="number" id="Luong" name="Luong" required>VND
+    </div>
+    <br>
+    <div><label for="password">Mật khẩu cũ:</label>
+        <input type="password" id="password" name="password">
+    </div>
+    <br>
+    <div><label for="password">Mật khẩu mới :</label>
+        <input type="password" id="password" name="password" required>
+    </div>
+    <br>
+    <div><label for="trang_thai">Trạng Thái:</label>
+        <input type="checkbox" id="trang_thai" name="Khoa" value="MoKhoa">Mở khóa
+    </div>
+    <br>
+    <div><label for="phan_quyen">Phân quyền:</label>
+        <select name="phan_quyen" id="phan_quyen">
+                <option value="admin">Admintrator</option>
+                <option value="manager" selected>Manager</option>
+            </select>
+    </div>
+    <br>
+    <input style="text-align: center" type="submit" value="Lưu">
+    <input style="text-align: center" type="reset">
+</form>
+
+<body>
+
+
+
+</body>
+
+</html>
