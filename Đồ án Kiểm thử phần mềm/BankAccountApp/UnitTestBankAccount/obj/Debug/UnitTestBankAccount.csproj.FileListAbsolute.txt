@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\BankAccountApp\UnitTestBankAccount\bin\Debug\UnitTestBankAccount.dll
+c:\users\admin\documents\visual studio 2015\Projects\BankAccountApp\UnitTestBankAccount\bin\Debug\UnitTestBankAccount.pdb
+c:\users\admin\documents\visual studio 2015\Projects\BankAccountApp\UnitTestBankAccount\bin\Debug\BankAccountApp.exe
+c:\users\admin\documents\visual studio 2015\Projects\BankAccountApp\UnitTestBankAccount\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\admin\documents\visual studio 2015\Projects\BankAccountApp\UnitTestBankAccount\bin\Debug\BankAccountApp.pdb
+c:\users\admin\documents\visual studio 2015\Projects\BankAccountApp\UnitTestBankAccount\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\admin\documents\visual studio 2015\Projects\BankAccountApp\UnitTestBankAccount\obj\Debug\UnitTestBankAccount.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\BankAccountApp\UnitTestBankAccount\obj\Debug\UnitTestBankAccount.dll
+c:\users\admin\documents\visual studio 2015\Projects\BankAccountApp\UnitTestBankAccount\obj\Debug\UnitTestBankAccount.pdb

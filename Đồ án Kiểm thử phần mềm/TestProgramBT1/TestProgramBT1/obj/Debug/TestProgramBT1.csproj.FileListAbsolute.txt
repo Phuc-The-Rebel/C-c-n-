@@ -1,0 +1,2 @@
+c:\users\admin\documents\visual studio 2015\Projects\TestProgramBT1\TestProgramBT1\bin\Debug\TestProgramBT1.exe.config
+C:\Users\Admin\documents\visual studio 2015\Projects\TestProgramBT1\TestProgramBT1\obj\Debug\TestProgramBT1.csprojResolveAssemblyReference.cache
